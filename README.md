@@ -8,10 +8,10 @@
 The primary game mechanism is based on tilt control with acceleration, and the user has to avoid the differently colored astroids while crashing into the blue astroid in order to gain health. If the user doesn't crash into the blue astroid, the health slowly deplinishes and when the health bar reaches zero, the UFO explodes. We also added particle system so that the glowing stars in the background is randomly generated.
 
 ### Title Screen
-<img src="pictures/uni_color_3.jpg?raw=true"/>
+<img src="Pictures/uni_color_3.jpg?raw=true"/>
 
 ### Upgrade/Shop Screen
-<img src="pictures/uni_color_2.jpg?raw=true"/>
+<img src="Pictures/uni_color_2.jpg?raw=true"/>
 
 ### In-Game Screen
-<img src="pictures/uni_color_1.jpg?raw=true"/>
+<img src="Pictures/uni_color_1.jpg?raw=true"/>
